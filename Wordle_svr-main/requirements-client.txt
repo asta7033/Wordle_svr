@@ -1,0 +1,3 @@
+# 桌面 client 依賴（不需部署到 server）
+pygame
+requests
